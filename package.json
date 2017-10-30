@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/nguyenvinh1001/socket-io#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "socket.io": "^2.0.4",
+    "socketio-jwt": "^4.5.0"
   }
 }
